@@ -7,6 +7,12 @@
 *.o
 *.obj
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 # Precompiled Headers
 *.gch
 *.pch

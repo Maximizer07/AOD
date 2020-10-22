@@ -1,0 +1,4 @@
+777 Toyota Racer 1
+156 Nissan Normal 0
+623 Acura Daredevil 1
+923 BMW Brave 0

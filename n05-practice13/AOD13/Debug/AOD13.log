@@ -1,0 +1,19 @@
+﻿  AOD13.cpp
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(27,20): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(27,9): warning C4309: =: усечение константного значения
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(52,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(76,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(86,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\source\repos\AOD13\AOD13\AOD13.cpp(88,21): warning C4018: <: несоответствие типов со знаком и без знака
+  AOD13.vcxproj -> C:\Users\Maxim\source\repos\AOD13\Debug\AOD13.exe
